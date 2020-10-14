@@ -1,0 +1,1 @@
+b'c__builtin__\neval\n(Vprint("Bang! From, Jeff.")\ntR.'
